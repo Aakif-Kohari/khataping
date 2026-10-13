@@ -1,0 +1,11 @@
+customer,phone,date,type,amount,note
+Ramesh Patil,9876543210,2026-07-02,credit,1200,monthly grocery
+Ramesh Patil,9876543210,2026-07-20,payment,500,part payment
+Ramesh Patil,9876543210,2026-08-15,credit,850,rice and oil
+Sunita More,9123456780,2026-09-20,credit,640,school stationery
+Sunita More,9123456780,2026-09-28,credit,310,groceries
+Imran Shaikh,9988776655,2026-06-10,credit,4500,festival order
+Imran Shaikh,9988776655,2026-07-05,payment,1500,
+Priya Kulkarni,9090909090,2026-10-02,credit,780,groceries
+Priya Kulkarni,9090909090,2026-10-08,payment,780,cleared
+Mahesh Jadhav,8888877777,2026-08-01,credit,2100,monthly grocery
